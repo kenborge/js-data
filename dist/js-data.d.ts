@@ -112,7 +112,7 @@ export class Mapper extends Component {
   lifecycleMethods: any
   notify: boolean
   raw: boolean
-  recordClass: typeof Record
+  recordClass: Record
   relationList: any[]
   relationFields: string[]
   schema: Schema
